@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+.env
+.env.local
+.env.*.local
+
+# Go
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+coverage.out
+
+# General
+.DS_Store
+*.swp
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+*.pid
